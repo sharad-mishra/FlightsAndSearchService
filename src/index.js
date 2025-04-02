@@ -18,3 +18,5 @@ const setupAndStartServer = async()=>{
 }
 
 setupAndStartServer();
+
+//working as of now
